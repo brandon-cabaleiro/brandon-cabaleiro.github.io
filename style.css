@@ -700,3 +700,12 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
+/* Cruise Header */
+cruise {
+	background-image: url(https://brandon-cabaleiro.github.io/img/LibertyOfTheSeas.JPG);
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
